@@ -1,3 +1,4 @@
+  
 // cote
 const CustomError = require("../extensions/custom-error");
 
@@ -13,5 +14,5 @@ for (let i = 0; i < matrix.length; i++) {
 }
 let itog = mass.reduce(function(a, b) {
   return a + b;
+});
 }
-};
